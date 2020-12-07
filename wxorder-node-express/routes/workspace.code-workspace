@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "wechat-order-node",
+			"path": ".."
+		},
+		{
+			"name": "gongdan",
+			"path": "..\\..\\gongdan"
+		}
+	],
+	"settings": {}
+}
